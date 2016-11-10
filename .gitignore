@@ -1,0 +1,11 @@
+debug
+release
+/Setting
+/Makefile*
+/Device/*.autosave
+*.rar
+/*.Debug
+/*.Release
+/*.cfg
+/*.user*
+/Settings
